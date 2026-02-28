@@ -1,0 +1,6 @@
+steps:
+- name: 'python'
+args: ['python', 'hello.py']
+
+options:
+  logining: CLOUD_LOGING_ONLY
